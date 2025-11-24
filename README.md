@@ -1,7 +1,6 @@
-# WebSqlite3
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nightsguru/web_sqlite3)
+<img width="700" height="250" alt="WebSQLITE3" src="https://github.com/user-attachments/assets/e26af95c-f81e-4bec-9519-fcc9c7cc93b4" />
 
-`web_sqlite3` is an enterprise-grade, asynchronous SQLite library for Python. It brings features commonly found in larger database systems like MySQL to SQLite, making it suitable for production-level async applications. It includes connection pooling, a priority-based query queue, semaphore-based concurrency control, and real-time monitoring capabilities.
+WebSQLITE3 is an enterprise-grade, asynchronous SQLite library for Python. It brings features commonly found in larger database systems like MySQL to SQLite, making it suitable for production-level async applications. It includes connection pooling, a priority-based query queue, semaphore-based concurrency control, and real-time monitoring capabilities.
 
 ## Key Features
 

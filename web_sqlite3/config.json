@@ -1,0 +1,25 @@
+{
+  "connection": {
+    "database": "data/production.db",
+    "timeout": 5.0,
+    "check_same_thread": false,
+    "isolation_level": "DEFERRED",
+    "cached_statements": 128,
+    "uri": false
+  },
+  "pool": {
+    "min_size": 2,
+    "max_size": 20,
+    "max_queries": 0,
+    "max_idle_time": 600.0,
+    "connection_timeout": 30.0,
+    "pool_recycle": 3600,
+    "echo": false
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 5084,
+    "charset": "utf8mb4",
+    "autocommit": true
+  }
+}

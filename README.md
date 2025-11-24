@@ -1,7 +1,7 @@
 # WebSqlite3
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nightsguru/web3_sqlite)
+[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nightsguru/web_sqlite3)
 
-`web3_sqlite` is an enterprise-grade, asynchronous SQLite library for Python. It brings features commonly found in larger database systems like MySQL to SQLite, making it suitable for production-level async applications. It includes connection pooling, a priority-based query queue, semaphore-based concurrency control, and real-time monitoring capabilities.
+`web_sqlite3` is an enterprise-grade, asynchronous SQLite library for Python. It brings features commonly found in larger database systems like MySQL to SQLite, making it suitable for production-level async applications. It includes connection pooling, a priority-based query queue, semaphore-based concurrency control, and real-time monitoring capabilities.
 
 ## Key Features
 
@@ -19,7 +19,6 @@ Install the library using pip. It requires `aiosqlite` and `pyyaml`.
 
 ```bash
 pip install aiosqlite pyyaml
-# Assuming the package is named web3_sqlite
 ```
 
 ## Configuration
